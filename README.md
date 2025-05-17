@@ -8,5 +8,5 @@
 
 ![](https://github.com/hansalemaos/simplecaptchasolver/blob/main/captcha2.jpg?raw=true)
 
-## and does a OCR
+## and performs a OCR
 
